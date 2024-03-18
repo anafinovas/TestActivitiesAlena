@@ -7,7 +7,7 @@ public class MainSender {
 
         TelegramSender telegramSender = new TelegramSender();
         telegramSender.run();
-        System.exit(0);
+        //System.exit(0);
     }
 }
 //This is a comment in order to trigger build in Jenkins
